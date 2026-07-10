@@ -72,3 +72,5 @@ power-query
 data-visualization
 analytics
 superstore# Super-store-sales-dashboard
+screenshot / Demo 
+example : [dashboard preview](https://github.com/ShivanshXcode/Super-store-sales-dashboard/blob/main/Screenshot%202026-07-11%20002117.png)
