@@ -3,7 +3,7 @@
 
 This project is an interactive Super Store Sales Dashboard built using Microsoft Power BI. The dashboard provides a complete analysis of sales performance, profitability, customer segments, shipping modes, payment methods, product categories, and regional sales. It enables business users to monitor KPIs, identify trends, and make data-driven decisions.
 
-📌 Key Features
+📌 Key Features. 
 📈 Sales, Profit & Quantity KPI Cards
 🚚 Average Delivery Time Analysis
 📅 Monthly Sales Year-over-Year (YoY) Trend Analysis
